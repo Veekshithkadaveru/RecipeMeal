@@ -1,4 +1,4 @@
-package com.example.recipemeal
+package com.example.recipemeal.repository
 
 import com.example.recipemeal.data.CategoriesResponse
 import com.example.recipemeal.data.MealDetailsResponse
