@@ -2,7 +2,7 @@ package com.example.recipemeal.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.recipemeal.Repository
+import com.example.recipemeal.repository.Repository
 import com.example.recipemeal.data.Category
 import com.example.recipemeal.data.Meal
 import com.example.recipemeal.data.MealDetail
